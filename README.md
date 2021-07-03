@@ -16,7 +16,6 @@ growth          | [growth](https://yahiaaaa.github.io/reading-notes/)
 marckdown      | [marckdown](https://yahiaaaa.github.io/reading-notes/rea01)
 git     | [git](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 HTML           | [HTML](https://replit.com/@yahia0saleh/readingnotes#java.md)
-<<<<<<< HEAD
 JAVASCRIPT     | [JAVASCRIPT](https://replit.com/@yahia0saleh/readingnotes#js.md)
 op&loop     | [op](https://replit.com/@yahia0saleh/readingnotes#read05.md)
 
