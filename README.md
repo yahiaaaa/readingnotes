@@ -19,6 +19,4 @@ HTML           | [HTML](https://replit.com/@yahia0saleh/readingnotes#java.md)
 <<<<<<< HEAD
 JAVASCRIPT     | [JAVASCRIPT](https://replit.com/@yahia0saleh/readingnotes#js.md)
 op&loop     | [op](https://replit.com/@yahia0saleh/readingnotes#read05.md)
-=======
-JAVASCRIPT     | [JAVASCRIPT](https://replit.com/@yahia0saleh/readingnotes#js.md)
->>>>>>> bece7becc2c354d0e2d6716fca54599efb77b99c
+
