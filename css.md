@@ -17,7 +17,7 @@ A document is usually a text file structured using a markup language — HTML is
 Presenting a document to a user means converting it into a form usable by your audience. Browsers, like Firefox, Chrome, or Edge , are designed to present documents visually, for example, on a computer screen, projector or printer.
 
 ## CSS syntax
-CSS is a rule-based language — you define rules specifying groups of styles that should be applied to particular elements or groups of elements on your web page. For example "I want the main heading on my page to be shown as large red text."
+* _CSS is a rule-based language_ — you define rules specifying groups of styles that should be applied to particular elements or groups of elements on your web page. For example "I want the main heading on my page to be shown as large red text."
 
 The following code shows a very simple CSS rule that would achieve the styling described above:
 
@@ -29,4 +29,5 @@ As there are so many things that you could style using CSS, the language is brok
 At this stage you don't need to worry too much about how CSS is structured, however it can make it easier to find information if, for example, you are aware that a certain property is likely to be found among other similar things and are therefore probably in the same specification. 
 
 For a specific example, let's go back to the Backgrounds and Borders module — you might think that it makes logical sense for the background-color and border-color properties to be defined in this module. And you'd be right.
+
 

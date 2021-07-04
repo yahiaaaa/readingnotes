@@ -18,4 +18,5 @@ git     | [git](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 HTML           | [HTML](https://replit.com/@yahia0saleh/readingnotes#java.md)
 JAVASCRIPT     | [JAVASCRIPT](https://replit.com/@yahia0saleh/readingnotes#js.md)
 op&loop     | [op](https://replit.com/@yahia0saleh/readingnotes#read05.md)
+FUNCTION     | [FUNCTION](https://replit.com/@yahia0saleh/readingnotes#read07.md)
 
