@@ -1,0 +1,182 @@
+# Basics of HTML, CSS & JS
+
+### Headings  "**h**"
+HTML has six "levels" of
+headings:
+
+Browsers display the contents of
+headings at different sizes. The
+contents of an <h1> element is
+the largest, and the contents of 
+an <h6> element is the smallest.
+
+### Paragraph   
+
+To create a paragraph, surround
+the words that make up the
+paragraph with an opening **p**
+tag and closing </p> tag.
+
+### Bold & It alic
+
+By enclosing words in the tags
+**b** and </b> we can make
+characters appear bold.
+
+By enclosing words in the tags
+**i** and </i> we can make
+characters appear italic.
+
+### Superscript & Subscript
+
+* **sup**
+The <sup> element is used
+to contain characters that
+should be superscript such
+as the suffixes of dates or
+mathematical concepts like
+raising a number to a power such
+as 22.
+
+
+* **sub**
+The <sub> element is used to
+contain characters that should
+be subscript. It is commonly
+used with foot notes or chemical
+formulas such as H20.
+
+
+### Line Breaks & Horizontal Rules
+
+**br** 
+As you have already seen, the
+browser will automatically show
+each new paragraph or heading
+on a new line. But if you wanted
+to add a line break inside the
+middle of a paragraph you can
+use the line break tag 
+
+**hr**
+To create a break between
+themes — such as a change of
+topic in a book or a new scene
+in a play — you can add a
+horizontal rule between sections
+using the  tag
+
+<hr/>
+
+* **Visual editors** often resemble
+word processors. Although
+each editor will differ slightly,
+there are some features that
+are common to most editors
+that allow you to control the
+presentation of text
+
+* **Code views** show you the code
+created by the visual editor so
+you can manually edit it, or so
+you can just enter new code
+yourself. It is often activated
+using a button with an icon
+that says HTML or has angled
+brackets. White space may be
+added to the code by the editor
+to make the code easier to read
+
+<hr/>
+
+
+# CSS
+
+CSS works by associating rules with HTML elements. These rules govern
+how the content of specified elements should be displayed. A CSS rule
+contains two parts: a **selector** and a **declaration**.
+
+*selector* :
+indicate which
+element the rule applies to.
+The same rule can apply to
+more than one element if you
+separate the element names
+with commas.
+
+
+*declaration* :
+indicate how
+the elements referred to in
+the selector should be styled.
+Declarations are split into two
+parts (a property and a value),
+and are separated by a colon.
+
+***CSS Properties Affect
+How El ements Are
+Dis played***
+
+CSS declarations sit inside curly brackets and each is made up of two
+parts: a property and a value, separated by a colon. You can specify
+several properties in one declaration, each separated by a semi-colon
+
+* Usi ng Internal
+***style***
+You can also include CSS rules
+within an HTML page by placing
+them inside a <style> element,
+which usually sits inside the
+<head> element of the page.
+
+* **Why use External
+Style Sheets?**
+
+When building a website there are several advantages to placing your
+CSS rules in a separate style sheet
+
+# JS
+
+We will look at what the code on the right does
+shortly, but for the moment note that:
+* Each of the lines of code in green is a statement.
+* The pink curly braces indicate the start and end
+of a code block. (Each code block could contain
+many more statements.
+
+### COMMENTS  //
+You should write comments to explain what your code does.
+They help make your code easier to read and understand.
+This can help you and others who read your code.
+
+***WHAT IS A VARIABLE? ***
+
+A script will have to temporarily
+store the bits of information it
+needs to do its job. It can store this
+data in variables.
+
+### Function method and object 
+
+* Functions allow you to group a set of related
+statements together that represent a single task.
+
+* Functions can take parameters (informatiorJ required
+to do their job) and may return a value.
+
+* An object is a series of variables and functions that
+represent something from the world around you.
+
+* In an object, variables are known as properties of the
+object; functions are known as methods of the object.
+
+* Web browsers implement objects that represent both
+the browser window and the document loaded into the
+browser window.
+
+* JavaScript also has several built-in objects such as
+String, Number, Math, and Date. Their properties and
+methods offer functionality that help you write scripts.
+
+* Arrays and objects can be used to create complex data
+sets (and both can contain the other.
