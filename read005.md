@@ -1,6 +1,7 @@
 # Images, Color, Text
 
  ### Adding images to web pages
+ 
 Images are added to the HTML page using the <img> element. This element has no closing tag, elements with no closing tags are known as an empty elements. The element mainly carries the following attributes:
 
  (Links to an external site.)The source attribute src
