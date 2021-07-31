@@ -32,5 +32,6 @@ read02         | [html](https://yahiaaaa.github.io/readingnotes/201read02)
 read04         | [html](https://yahiaaaa.github.io/readingnotes/Read:%2004)
 read03         | [html](https://yahiaaaa.github.io/readingnotes/READ03)
 read05         | [html](https://yahiaaaa.github.io/readingnotes/read005)
+read06         | [html](https://yahiaaaa.github.io/readingnotes/read006)
 
 
