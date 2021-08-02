@@ -34,5 +34,6 @@ read03         | [html](https://yahiaaaa.github.io/readingnotes/READ03)
 read05         | [html](https://yahiaaaa.github.io/readingnotes/read005)
 read06         | [html](https://yahiaaaa.github.io/readingnotes/read006)
 read07         | [html](https://yahiaaaa.github.io/readingnotes/read007)
+read08         | [html](https://yahiaaaa.github.io/readingnotes/read08)
 
 
