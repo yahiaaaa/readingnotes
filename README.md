@@ -40,6 +40,8 @@ read10         | [html](https://yahiaaaa.github.io/readingnotes/read10)
 read11         | [html](https://yahiaaaa.github.io/readingnotes/read11)
 read12         | [html](https://yahiaaaa.github.io/readingnotes/read12)
 read13         | [html](https://yahiaaaa.github.io/readingnotes/read13)
+read14a         | [html](https://yahiaaaa.github.io/readingnotes/read14a)
+read14b         | [html](https://yahiaaaa.github.io/readingnotes/read1ab)
 
 
 
